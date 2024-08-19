@@ -8,5 +8,3 @@
     <img src="https://raw.githubusercontent.com/zisty-h/.github/main/profile/3DZis.png" width="100">
     Zistyは恐らく、いや確実に宇宙一のチームです！！！
 </p>
-
-## 👀 About Github
