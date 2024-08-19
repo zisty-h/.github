@@ -10,5 +10,3 @@
 </p>
 
 ## 👀 About Github
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zisty-h&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zisty-h"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zisty-h&theme=tokyonight" alt="zisty-h" />
