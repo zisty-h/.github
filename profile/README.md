@@ -2,10 +2,9 @@
 ![Zisty-h](https://raw.githubusercontent.com/zisty-h/.github/main/profile/banner.jpg)  
 
 ## 💡 About us
-> Zisty is programming team. <br>
-> We can HTML,CSS,JS,PHP,C#,Python,Ruby,Z80,etc...<br>
-
-> We are six members now.
+Zisty is programming team.  
+We can HTML,CSS,JS,PHP,C#,Python,Ruby,Z80,etc...  
+We are six members now.
 
 ## 💼 Do you want to Join us...?
 - [x] Do you have some Programming skil?<br>
@@ -13,7 +12,3 @@
 - [x] Do you like programming? (most important!!)<br>
 
 If all question's answer was “Yes”, Plese thinking join to us!✨️<br>
-
-## 📡 Links
-- [Discord](https://discord.gg/WQ492wP3YM)<br>
-- [X](https://x.com/TeamZisty)
