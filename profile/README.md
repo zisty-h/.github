@@ -4,7 +4,7 @@
 ## 💡 About us
 Zisty is programming team.  
 We can HTML,CSS,JS,PHP,C#,Python,Ruby,Z80,etc...  
-We are six members now.
+We are 0b101(5) members now!
 
 ## 💼 Do you want to Join us...?
 - [x] Do you have some Programming skil?<br>
