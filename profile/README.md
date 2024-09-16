@@ -11,4 +11,4 @@ We are 0b101(5) members now!
 - [x] Do you have meny willingness!?<br>
 - [x] Do you like programming? (most important!!)<br>
 
-If all question's answer was “Yes”, Plese thinking join to us!✨️<br>
+If all question's answer was “Yes”, Plese think join to us!✨️<br>
