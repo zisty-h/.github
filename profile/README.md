@@ -1,5 +1,5 @@
 # 👋 Welcome to the TeamZisty github!
-![Zisty-h](https://raw.githubusercontent.com/zisty-h/.github/main/profile/banner.jpg)  
+![banner](https://github.com/zisty-h/.github/blob/main/profile/banner.jpg)
 
 ## 💡 About us
 Zisty is programming team.  
