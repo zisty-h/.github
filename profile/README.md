@@ -11,7 +11,6 @@ We are 0b101(5) members now!
  　- tanahiro2010　　･･･ Admin<br>
  　　- kazu7　　　　　　･･･ Admin<br>
  　　　- Syobosyobonn　　　･･･ Admin<br>
- 　　　　- kuzirakun　　　　　　･･･ Member<br>
 
 ## 🛠️ Skils
 ### 🛠️ Program language
