@@ -14,4 +14,4 @@ And we develop using the following languages and platforms
 
 If all question's answer was “Yes”, Plese think join to we!
 
-<img src="https://github.com/zisty-h/.github/blob/main/profile/footer.20241012.png">
+<img src="https://github.com/zisty-h/.github/blob/main/profile/footer.202410121.png">
