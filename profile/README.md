@@ -1,4 +1,4 @@
-## 💡 About Us
+## 💡 About us
 We are a team of engineers named Zisty. We are mainly students and we develop services, tools, applications, and designs.  
 
 And we develop using the following languages and platforms  
